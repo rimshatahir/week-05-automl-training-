@@ -48,6 +48,3 @@ The confusion matrix and evaluation metrics are included in: metrics/confusion-m
 ## Conclusion
 This project demonstrates how AutoML tools like Teachable Machine can be used to detect phishing attempts. However, model performance depends heavily on the quality and diversity of training data.
 
-## Final Thoughts
-
-Overall, this project showed that while AutoML tools make it easy to build models quickly, the accuracy of the model heavily depends on the quality and balance of the training data.
