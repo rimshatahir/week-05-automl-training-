@@ -1,7 +1,7 @@
 # Week 05 - AutoML Training Project
 
 ## Overview
-This project focuses on building and evaluating a machine learning model using Teachable Machine to classify images as **phishing** or **legitimate**. The goal is to understand how AutoML can be used for cybersecurity-related classification tasks.
+This project focuses on building and evaluating a machine learning model using Teachable Machine to classify images as phishing or legitimate. The goal is to explore how AutoML can be applied to real-world cybersecurity problems, specifically phishing detection.
 
 ## Dataset
 The dataset consists of:
@@ -40,8 +40,6 @@ This file compares predictions from:
 ## Evaluation
 The confusion matrix and evaluation metrics are included in: metrics/confusion-matrix.md
 
-
-
 ## Key Findings
 - The model achieved high recall for phishing detection
 - It struggled with precision due to false positives
@@ -49,3 +47,7 @@ The confusion matrix and evaluation metrics are included in: metrics/confusion-m
 
 ## Conclusion
 This project demonstrates how AutoML tools like Teachable Machine can be used to detect phishing attempts. However, model performance depends heavily on the quality and diversity of training data.
+
+## Final Thoughts
+
+Overall, this project showed that while AutoML tools make it easy to build models quickly, the accuracy of the model heavily depends on the quality and balance of the training data.
